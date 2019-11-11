@@ -1,0 +1,175 @@
+---
+title: "#SINNSSYKTVIKTIG"
+subtitle: "Conference for Teens on Mental Health<br /> <br /> September 27, 2019<br /> <br/> <br /> <small>Inaugural event report<br /> Jonelle D. Villar, PhD student<br /> Epigenetics and Multiomics Group"
+output:
+  xaringan::moon_reader:
+    css: [default, fc, fc-fonts, "hygge"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false 
+    
+---
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+
+```
+class: middle, center 
+#350 youth aged 16-17 (VG1) were invited  to participate in a day of awareness of mental health disorders 
+
+.content-box-green[.Large[.justify-center[
+The conference was live streamed<br />from the University Aula to the Student Center.<br /> <br/>
+To view the event click [Here](https://www.youtube.com/watch?v=c7eyJ_pY4Gg)]]]
+
+
+.large[Twitter .blue[**#sinnssyktviktig**]]
+
+---
+background-image: url(img/selfie.jpg)
+background-position: cover
+background-size:930px
+
+class: bottom, left
+#Welcome and group selfie
+
+---
+background-image:url(img/angst.jpg)
+background-position: 2% 98%, 95% 98%
+background-size: 500px
+
+class: middle, top
+.pull-right[.content-box-green[.Large[
+Priority for day - focus on teens
+- Need for increased awareness
+- Lower threshold to seek help
+- Debate on effective & efficiently delivered mental health care
+]]]
+
+---
+class: top
+&nbsp;
+
+# Variety of lecture topics for teens to choose 
+
+.pull-left[.large[**Parallel session lectures given by**
+- Bjarne Hansen, Johan Myklebust Aaland
+- Tore Børtveit, Kay Morten Hjelle
+- Smiti Kahlon
+- Gerd Kvale, Are Grov 
+- Anders L. Thorsen, Olga Therese Ousdal
+- Bente Mowatt, Storm Haugland
+- Jarle Eid, Bjørn H. Johnsen,<br /> Evelyn Rose-Saus
+- Jan Haavik, Stéphanie Le Hellard]]
+
+.pull-right[.large[**Lecture topics**
+- Shyness and social anxiety
+- Panic!
+- Therapy with VR glasses
+- B4DT for OCD
+- Brain imaging of anxiety
+- School-based treatment for anxiety
+- Effective treatment for PTSD
+- Inheritance of psychiatric disorders]]
+
+---
+background-image: url(img/sessions.jpg)
+background-position: contain
+background-size:930px
+
+class: bottom, left 
+#Parallel sessions 
+
+---
+background-image: url(img/test.jpg
+background-position: contain
+background-size: 900px
+
+
+# Guided stands were set up to **Test Yourself**<br /br> <br /> - Do you  have compulsive thoughts?
+
+---
+class: middle, center, inverse
+
+# The Bergen 4-day Treatment (B4DT)<br /> <br /> 
+
+##Introducing a practical, evidence-based, focused<br /> <br /> and deliberate exposure-based treatment.<br /> <br />
+
+.large[Interview with a former patient and her family<br />sharing their experience with B4DT    [Here](https://www.youtube.com/watch?time_continue=3&v=7KBw7l1uorc)]
+
+---
+background-image: url(img/debate_2.jpg)
+background-position: contain
+background-size:900px
+
+class: top
+
+.full-width[.Large[.content-box-blue[.blue[Debate on health care proposals - closing with an engaging commitment from the Minister of Education. 
+]]]]
+
+---
+class: top, left
+
+#Points to drive home on teen mental health
+
+&nbsp;
+
+.Large[
+Eivind Hansen, director of Haukeland University Hospital<br /> <br /> Do provide information to youth that:
+- clearly characterises symptoms of mental health disorders, thus increasing the teen's awareness of unhealthy behavior
+- encourges youth to be open and seek help early
+- breaks the stigma of anxiety, cumpulsive behavior and depression
+- teaches youth to support those in need of help
+
+We can *always* be better!]
+
+---
+class: top, left
+
+#Points to drive home on prevention 
+
+&nbsp;
+
+.Large[
+Jan Tore Sanner, Minister of Education and Integration <br /> <br /> Do provide a healthy educational environment to:
+- promote confidence and successful learning 
+- eliminate mobbing
+- avoid undo stress at school
+- support comprehensive school health care
+- teach coping skills for life
+
+*Everyone* can do something to promote positive mental health.]
+
+---
+class: top, left
+
+#Summary and Evaluation 
+
+&nbsp;
+
+.Large[
+- Positive response from teens to the sessions and the *Test Yourself* exhibit.
+
+
+- Agreement to modify the format of the debate to include youth participation.
+
+
+- Prepare for annual conferences.]
+
+---
+class: center, middle
+
+# **Acknowledgements**
+
+&nbsp;
+
+.large[The youth who came to learn<br /> <br />Stéphanie Le Hellard and the Epigenetics and Multiomics Group<br /> <br />Gerd Kvale and Bjarne Hansen with Bergen Center for Brain Plasticity<br /> <br /> University of Bergen<br />Helse-Bergen <br />Trond Mohn Foundation<br />The Kavli Trust<br /> <br />SFFNORMENT]
+
+---
+background-image: url(img/Martens.jpg)
+background-position: contain
+background-size:930px
+
+class: center, top
+
+# **Dr. Einar Martens Group for Biological Psychiatry**
