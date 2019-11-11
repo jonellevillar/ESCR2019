@@ -15,9 +15,19 @@ output:
 options(htmltools.dir.version = FALSE)
 
 ```
+background-image: url(img/Martens.jpg)
+background-position: contain
+background-size:930px
+
+class: center, top
+
+# **Dr. Einar Martens Group for Biological Psychiatry**
+
+
+---
 class:left,top
 
-#How Did Astronaut DNA Become 'Fake News'?
+#“After a year in space, astronaut Scott Kelly<br /> <br/> no longer has same DNA as identical twin.”
 
 
 
