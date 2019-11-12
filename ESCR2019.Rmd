@@ -15,7 +15,7 @@ output:
 options(htmltools.dir.version = FALSE)
 
 ```
-background-image: url(img/Martens.jpg)
+background-image: url(img/MartensGr3.jpg)
 background-position: contain
 background-size:930px
 
