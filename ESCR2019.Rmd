@@ -25,9 +25,13 @@ class: center, top
 
 
 ---
-class:left,top
+background-image: url(img/head.jpg)
+background-position: top
+background-size:930px
 
-#“After a year in space, astronaut Scott Kelly<br /> <br/> no longer has same DNA as identical twin.”
+class:left,middle
+
+#“After a year in space,<br />astronaut Scott Kelly no longer has same DNA as identical twin.”
 
 
 
