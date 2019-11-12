@@ -29,15 +29,17 @@ background-image: url(img/head.jpg)
 background-position: top
 background-size:930px
 
-class:center,middle
+class:center, middle
 
-#<br />“After a year in space,astronaut Scott Kelly no longer<br /> has same DNA as identical twin.”
+#<br /> <br /> <br /> <br /> <br />“After a year in space,astronaut Scott Kelly no longer<br /> has same DNA as identical twin.”<br />
+
+.Large["Findings from a NASA study on the twins found that 7 percent of Scott Kelly's gene expression has not returned to its pre-mission state."<br />.small[NBC Today Show, March 15, 2018]]<br /> <br /> <br />.large[.blue[For NASA study - see *Science* April 12, 2019: Vol. 364]]
 
 
 ---
 class: middle, center 
-#SINNSSYKTVIKTIG 27 September 2019
-#350 youth aged 16-17 (VG1) were invited  to participate in a day of awareness of mental health disorders 
+#SINNSSYKTVIKTIG kunnskapskonferanse - 27.09.2019
+#350 youth aged 16-17 invited to raise awareness of<br/>mental health disorders 
 
 .content-box-green[.Large[.justify-center[
 The conference was live streamed<br />from the University Aula to the Student Center.<br /> <br/>
@@ -205,11 +207,4 @@ class: center, middle
 
 .large[The youth who came to learn<br /> <br />Stéphanie Le Hellard and the Epigenetics and Multiomics Group<br /> <br />Gerd Kvale and Bjarne Hansen with Bergen Center for Brain Plasticity<br /> <br /> University of Bergen<br />Helse-Bergen <br />Trond Mohn Foundation<br />The Kavli Trust<br /> <br />SFFNORMENT]
 
----
-background-image: url(img/Martens.jpg)
-background-position: contain
-background-size:930px
 
-class: center, top
-
-# **Dr. Einar Martens Group for Biological Psychiatry**
