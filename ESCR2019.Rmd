@@ -184,18 +184,17 @@ background-image: url(img/twoS.jpg)
 background-position: contain
 background-size:910px
 
-class: top
+class: bottom, right 
+.Large[.red[**Correct Spelling**]]
 
 ---
 background-image: url(img/oneS.jpg)
 background-position: contain
 background-size:910px
 
-class: top
+class: bottom, right
 
-
-
-
+.Large[.red[**Incorrect Spelling**]]
 
 ---
 class: center, middle
