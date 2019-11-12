@@ -35,20 +35,8 @@ class:center,middle
 
 
 ---
-class: middle, left, inverse
-
-#SINNSSYKTVIKTIG
-
-.large[Conference for Teens on Mental Health<br /> <br /> September 27, 2019<br /> <br/> <br /> <Inaugural event report<br /> Jonelle D. Villar, PhD student<br /> Epigenetics and Multiomics Group]
-
----
-
-
-
-
-
----
 class: middle, center 
+#SINNSSYKTVIKTIG 27 September 2019
 #350 youth aged 16-17 (VG1) were invited  to participate in a day of awareness of mental health disorders 
 
 .content-box-green[.Large[.justify-center[
