@@ -25,16 +25,25 @@ class: center, top
 
 
 ---
-background-image: url(img/head.jpg)
+background-image: url(img/Kelly1.jpg)
 background-position: top
 background-size:930px
 
-class:center, middle
+class: bottom, middle
 
-#<br /> <br /> <br /> <br /> <br />“After a year in space,astronaut Scott Kelly no longer<br /> has same DNA as identical twin.”<br />
+#“After a year in space, astronaut Scott Kelly no longer<br /> has same DNA as identical twin.”
+
+---
+class: left, top
 
 
-.Large["Findings from a NASA study on the twins found that 7 percent of Scott Kelly's gene expression has not returned to its pre-mission state."<br />.small[NBC Today Show, March 15, 2018]]<br /> <br /> <br />.large[.blue[See NASA study - **Science** April 12, 2019: Vol. 364]]
+#"Findings from a NASA study on the twins found that<br /> 7 percent of Scott Kelly's gene expression has not<br />  returned to its pre-mission state."<br /><br />.small[NBC Today Show, March 15, 2018]<br /> <br /> <br />**Clarification** - 7 percent of the genes whose expression had changed in space had not returned to pre-mission state.<br /> <br /> <br /> <br />See NASA study - **Science** April 12, 2019: Vol. 364
+
+---
+class: left, top
+
+
+#NBC Today Show, March 15, 2018<br /> <br />"Findings from a NASA study on the twins found that 7 percent of Scott Kelly's gene expression has not  returned to its pre-mission state."<br /> <br /><br /> <br /> **Clarification** - 7 percent of the genes whose expression had changed in space had not returned to pre-mission state.<br /> <br /> <br /> <br />See NASA study - **Science** April 12, 2019: Vol. 364
 
 
 
