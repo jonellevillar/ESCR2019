@@ -33,11 +33,9 @@ class:center, middle
 
 #<br /> <br /> <br /> <br /> <br />“After a year in space,astronaut Scott Kelly no longer<br /> has same DNA as identical twin.”<br />
 
-<<<<<<< HEAD
-.Large["Findings from a NASA study on the twins found that 7 percent of Scott Kelly's gene expression has not returned to its pre-mission state."<br />.small[NBC Today Show, March 15, 2018]]<br /> <br /> <br />.large[.blue[See NASA study - see **Science** April 12, 2019: Vol. 364]]
-=======
+
 .Large["Findings from a NASA study on the twins found that 7 percent of Scott Kelly's gene expression has not returned to its pre-mission state."<br />.small[NBC Today Show, March 15, 2018]]<br /> <br /> <br />.large[.blue[See NASA study - **Science** April 12, 2019: Vol. 364]]
->>>>>>> 2cfc6f09e9647fc6a880994fad7c83db6f1cec18
+
 
 
 ---
@@ -191,7 +189,7 @@ background-position: contain
 background-size:910px
 
 class: bottom, right 
-.Large[.red[**Correct Spelling**]]
+.Large[.dark[**Correct Spelling**]]
 
 ---
 background-image: url(img/oneS.jpg)
@@ -200,7 +198,7 @@ background-size:910px
 
 class: bottom, right
 
-.Large[.red[**Incorrect Spelling**]]
+.Large[.dark[**Incorrect Spelling**]]
 
 ---
 class: center, middle
