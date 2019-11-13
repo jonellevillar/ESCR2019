@@ -175,15 +175,15 @@ class: top, left
 &nbsp;
 
 .Large[
-- Positive response from teens to the sessions and the *Test Yourself* exhibit.
+- Positive response to sessions & "Test Yourself" exhibit.
 
 
-- Agreement to modify the format of the debate to include youth participation.
+- Modify debate format  to include youth participation.
 
 
 - Prepare for annual conferences.
 
-- SINNSSYKTVIKIG - appropriate catch phrase? correct spelling?]
+- SINNSSYKTVIKIG - appropriate catch phrase?]
 
 ---
 background-image: url(img/twoS.jpg)
