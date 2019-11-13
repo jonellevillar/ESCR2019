@@ -158,7 +158,7 @@ class: top, left
 Eivind Hansen, director of Haukeland University Hospital<br /> <br /> Provide information to youth that:
 - clearly characterises symptoms of mental health disorders
 - encourges youth to be open and seek help early
-- breaks the stigma of anxiety, compulsive behavior and depression
+- breaks the stigma of these disorders
 - teaches youth to support others in need 
 
 We can *always* be better!]
@@ -188,13 +188,13 @@ class: top, left
 &nbsp;
 
 .Large[
-- Prepare message well - present science to address stigma
+- Prepare message well - science presented to address stigma
 
 
-- Know your audience - the teen-age mindset
+- Know your audience - the teen-age mindset was approached
 
 
-- SINNSSYKTVIKIG - appropriate motto?]
+- Sinnssyktviktig - appropriate motto?]
 
 ---
 background-image: url(img/twoS.jpg)
