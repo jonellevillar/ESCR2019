@@ -203,13 +203,5 @@ class: center, middle
 
 &nbsp;
 
-.large[The youth who came to learn<br /> <br />Stéphanie Le Hellard and the Epigenetics and Multiomics Group<br /> <br />Gerd Kvale and Bjarne Hansen with Bergen Center for Brain Plasticity<br /> <br /> University of Bergen<br />Helse-Bergen <br />Trond Mohn Foundation<br />The Kavli Trust<br /> <br />SFFNORMENT]
+.Large[The youth who came to learn<br /> <br />Stéphanie Le Hellard and the Epigenetics and Multiomics Group<br /> <br />Gerd Kvale and Bjarne Hansen with Bergen Center for Brain Plasticity<br /> <br /> University of Bergen<br />Helse-Bergen <br />Trond Mohn Foundation<br />The Kavli Trust<br /> <br />SFFNORMENT]
 
----
-background-image: url(img/Martens.jpg)
-background-position: contain
-background-size:930px
-
-class: center, top
-
-# **Dr. Einar Martens Group for Biological Psychiatry**
