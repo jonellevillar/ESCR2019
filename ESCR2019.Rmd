@@ -33,7 +33,7 @@ class:center, middle
 
 #<br /> <br /> <br /> <br /> <br />“After a year in space,astronaut Scott Kelly no longer<br /> has same DNA as identical twin.”<br />
 
-.Large["Findings from a NASA study on the twins found that 7 percent of Scott Kelly's gene expression has not returned to its pre-mission state."<br />.small[NBC Today Show, March 15, 2018]]<br /> <br /> <br />.large[.blue[For NASA study - see *Science* April 12, 2019: Vol. 364]]
+.Large["Findings from a NASA study on the twins found that 7 percent of Scott Kelly's gene expression has not returned to its pre-mission state."<br />.small[NBC Today Show, March 15, 2018]]<br /> <br /> <br />.large[.blue[See NASA study - **Science** April 12, 2019: Vol. 364]]
 
 
 ---
@@ -207,7 +207,5 @@ class: center, middle
 
 .Large[The youth who came to learn<br /> <br />Stéphanie Le Hellard and the Epigenetics and Multiomics Group<br /> <br />Gerd Kvale and Bjarne Hansen with Bergen Center for Brain Plasticity<br /> <br /> University of Bergen<br />Helse-Bergen <br />Trond Mohn Foundation<br />The Kavli Trust<br /> <br />SFFNORMENT]
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 64f6611bed2befb105394feaac44efd99502cbea
+
