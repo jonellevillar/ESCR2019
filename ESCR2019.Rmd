@@ -129,15 +129,6 @@ background-size: 900px
 # Guided stands were set up to **Test Yourself**<br /br> <br /> - Do you  have compulsive thoughts?
 
 ---
-class: middle, center, inverse
-
-# The Bergen 4-day Treatment (B4DT)<br /> <br /> 
-
-##Introducing a practical, evidence-based, focused<br /> <br /> and deliberate exposure-based treatment.<br /> <br />
-
-.large[Interview with a former patient and her family<br />sharing their experience with B4DT    [Here](https://www.youtube.com/watch?time_continue=3&v=7KBw7l1uorc)]
-
----
 background-image: url(img/debate_2.jpg)
 background-position: contain
 background-size:900px
