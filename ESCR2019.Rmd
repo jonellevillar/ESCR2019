@@ -25,7 +25,7 @@ class: center, top
 
 
 ---
-class: top, left
+class: middle, left
 
 #Themes for effective communication<br /> <br />
 
@@ -126,7 +126,7 @@ background-position: contain
 background-size: 900px
 
 
-# Guided stands were set up to **Test Yourself**<br /br> <br /> - Do you  have compulsive thoughts?
+#Guided stands were set up to **Test Yourself**<br /br> <br /> - Do you  have compulsive thoughts?
 
 ---
 background-image: url(img/debate_2.jpg)
@@ -141,7 +141,7 @@ class: top
 ---
 class: top, left
 
-#Points to drive home on teen mental health
+#<br />Points to drive home on teen mental health
 
 &nbsp;
 
@@ -157,7 +157,7 @@ We can *always* be better!]
 ---
 class: top, left
 
-#Points to drive home on prevention 
+#<br />Points to drive home on prevention 
 
 &nbsp;
 
@@ -172,7 +172,7 @@ Jan Tore Sanner, Minister of Education and Integration <br /> <br /> Provide a h
 *Everyone* can do something to promote positive mental health.]
 
 ---
-class: top, left
+class: middle, left
 
 #Evaluation of themes for effective communication 
 
